@@ -1,0 +1,270 @@
+---
+---
+
+html, body { 
+  background: url('{{site.baseurl}}/images/bg.png');
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  font-family: 'Droid Serif'; 
+  font-style: normal; 
+  font-weight: normal; 
+}
+
+h1, h2 {
+  font-size: 1.2em;
+  line-height: 1em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+h2 {
+  font-size: 1.1em;
+}
+
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#header h2 {
+  text-align: right;
+  font-style: italic;
+  margin: 0;
+}
+
+#footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#content { 
+  padding-top: 0;
+  margin-top: 0;
+}
+
+ul.index, ul.menu {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px; 
+}
+
+ul.index li {
+}
+
+ul.index li a {
+  display: block;
+  max-width: 400px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+  background: #080;
+}
+
+ul.index li a.draft {
+  background: #888;
+}
+
+ul.index li a:hover {
+  background: #000;
+}
+
+ul.menu li {
+  display: inline-block;
+  font-family: 'Droid Serif'; 
+}
+
+ul.menu li a {
+  display: inline-block;
+  padding: 10px;
+  margin-right: 5px;
+  margin-left: 0;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  color: white;
+  background: #080;
+}
+
+ul.menu li a:hover {
+  background: #000;
+}
+
+#header a, #header h2 {
+  color: #4c4742 !important;
+}
+
+#footer a {
+  color: #4c4742 !important;
+}
+
+img.show {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.show100 {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+
+p.show100 {
+  font-style: italic;
+  background: #eee;
+  text-align: center;
+  width: 80%;
+  min-width: 200px;
+}
+
+
+.edit {
+  text-align: right;
+  font-style: italic;
+}
+
+.edit a {
+  color: #888;
+}
+
+.draft-alert { 
+  padding: 20px;
+  margin: 20px;
+  background: #888;
+  color: #fff;
+  border-radius: 20px;
+  font-size: 200%;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif; 
+  text-shadow: 0px 0px 5px black;
+}
+
+.changes, .section, .field-name-body {
+  background: #fff;
+  padding: 10px;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.author {
+  text-align: right;
+  font-style: italic;
+}
+
+.intro p, .intro h2 {
+  padding-left: 20px;
+}
+
+.intro img {
+  padding-top: 5px;
+  clear: both;
+  float: left;
+  margin: 10px; 
+  border: 0px;
+  width: 50px;
+}
+
+.join {
+  background: #050 !important;
+}
+
+.alert { 
+  background: #800;
+  color: white;
+  font-size: 150%;
+  border-radius: 20px;
+}
+
+.cite { 
+  text-align: right;
+  font-style: italic;
+  font-size: 90%;
+  color: #888;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.cite a { 
+  color: #888;
+  font-weight: bold;
+}
+
+.cite:before { 
+  content: "source: ";
+}
+
+blockquote p { 
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-style: italic;
+}
+
+.decorate { 
+  float: right;
+}
+
+#filter { 
+  font-size: 150%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  border-style: none;
+  background: #eee;
+  float: left;
+  margin-right: 10px;
+}
+
+.see-also { 
+  display: inline-block;
+  float: left;
+  font-size: 150%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  border-style: none;
+  background: #aaa;
+  margin: 0;
+}
+
+.see-also a {
+  color: white;
+}
+
+#directory .item { 
+  display: block;
+  width: 200px;
+  margin-top: 2em;
+  padding: 10px;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 0 1em #080;
+  overflow: auto;
+}
+
+.clear {
+  clear: both;
+}
