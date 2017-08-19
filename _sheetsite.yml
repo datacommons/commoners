@@ -1,8 +1,6 @@
 source:
   name: google-sheets
-  junkkey: https://docs.google.com/spreadsheets/d/19UaXhqPQ0QHEfSWS_adDEtPwYstq8llK2YijpvFZcKA/edit?usp=sharing
   key: 19UaXhqPQ0QHEfSWS_adDEtPwYstq8llK2YijpvFZcKA
-  junkcredential_file: service.json
 
 flags:
   add:

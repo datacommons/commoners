@@ -1,4 +1,4 @@
-This is the Technical Assistance Providers directory, http://datacommons.coop/tap
+This is a list of Data Commons members, http://datacommons.coop/commoners/
 
 The list is maintained as a google spreadsheet, and then pushed to this
 repository using [sheetsite](https://github.com/paulfitz/sheetsite).
