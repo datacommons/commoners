@@ -1,0 +1,341 @@
+{
+  "names": [
+    "directory"
+  ], 
+  "tables": {
+    "directory": {
+      "columns": [
+        "NAME", 
+        "ADDRESS", 
+        "LAT", 
+        "LNG", 
+        "COUNTRY", 
+        "STREET", 
+        "REGION", 
+        "LOCALITY"
+      ], 
+      "rows": [
+        {
+          "NAME": "Canadian Worker Co-op Federation", 
+          "ADDRESS": "104, 402 30 Avenue NE, Calgary, Alberta T2E 2E3", 
+          "LAT": 51.07979040000001, 
+          "LNG": -114.0545945, 
+          "COUNTRY": "Canada", 
+          "STREET": "402 30 Avenue Northeast", 
+          "REGION": "Alberta", 
+          "LOCALITY": "Calgary"
+        }, 
+        {
+          "NAME": "Carolina Common Enterprise", 
+          "ADDRESS": "Durham, NC", 
+          "LAT": 35.9940329, 
+          "LNG": -78.898619, 
+          "COUNTRY": "United States", 
+          "STREET": null, 
+          "REGION": "North Carolina", 
+          "LOCALITY": "Durham"
+        }, 
+        {
+          "NAME": "Collaborative Agronomic Partnerships", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Cooperation Works!", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Cooperative Development Institute", 
+          "ADDRESS": "P.O. Box 1051\nNorthampton, MA 01061-1051", 
+          "LAT": 42.3214031, 
+          "LNG": -72.6273488, 
+          "COUNTRY": "United States", 
+          "STREET": null, 
+          "REGION": "Massachusetts", 
+          "LOCALITY": "Northampton"
+        }, 
+        {
+          "NAME": "Cooperative Fund of New England", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Cooperative Grocer Network", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Cooperative Maine", 
+          "ADDRESS": "Maine, US", 
+          "LAT": 45.253783, 
+          "LNG": -69.4454689, 
+          "COUNTRY": "United States", 
+          "STREET": null, 
+          "REGION": "Maine", 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Cultivate.Coop", 
+          "ADDRESS": "PO Box 1207 Northampton, MA 01060", 
+          "LAT": 42.3250492, 
+          "LNG": -72.6411923, 
+          "COUNTRY": "United States", 
+          "STREET": null, 
+          "REGION": "Massachusetts", 
+          "LOCALITY": "Northampton"
+        }, 
+        {
+          "NAME": "Eastern Conference for Workplace Democracy", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Food Co-op Initiative", 
+          "ADDRESS": "14314 Featherstone Trail\nSavage, MN 55378 ", 
+          "LAT": 44.744756, 
+          "LNG": -93.36506469999999, 
+          "COUNTRY": "United States", 
+          "STREET": "14314 Featherstone Trail", 
+          "REGION": "Minnesota", 
+          "LOCALITY": "Savage"
+        }, 
+        {
+          "NAME": "Grassroots Economic Organizing", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "hOurworld", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Julia Poznik", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Keystone Development Center, Inc.", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Manitoba Cooperative Association", 
+          "ADDRESS": "400 \u2013 317 Donald Street\nWinnipeg, MB R3B 2H6", 
+          "LAT": 49.8946236, 
+          "LNG": -97.1436189, 
+          "COUNTRY": "Canada", 
+          "STREET": "317 Donald Street", 
+          "REGION": "Manitoba", 
+          "LOCALITY": "Winnipeg"
+        }, 
+        {
+          "NAME": "New Economy Coalition", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "North American Students of Co-operation", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Northeast Food Knowledge Ecosystem", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Northwest Cooperative Development Center", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Philadelphia Area Cooperative Alliance", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Rocky Mountain Farmers Union Co-op Development Center", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Sarapis Foundation", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Shareable and the Sharing Cities Network", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Solidarity Economy Network", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Solidarity NYC", 
+          "ADDRESS": "New York, NY", 
+          "LAT": 40.7127837, 
+          "LNG": -74.0059413, 
+          "COUNTRY": "United States", 
+          "STREET": null, 
+          "REGION": "New York", 
+          "LOCALITY": "New York"
+        }, 
+        {
+          "NAME": "Solidarity Piedmont", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Solidarity Research Center", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Tiny.Coop", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "US Federation of Worker Co-ops", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Vermont Employee Ownership Center", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }, 
+        {
+          "NAME": "Worcester Solidarity and Green Economy (SAGE) Alliance", 
+          "ADDRESS": "", 
+          "LAT": null, 
+          "LNG": null, 
+          "COUNTRY": null, 
+          "STREET": null, 
+          "REGION": null, 
+          "LOCALITY": null
+        }
+      ]
+    }
+  }
+}
