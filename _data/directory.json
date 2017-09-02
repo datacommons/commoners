@@ -116,6 +116,16 @@
           "LOCALITY": null
         }, 
         {
+          "NAME": "Cooperatives for a Better World", 
+          "ADDRESS": "670 North Commercial Street \nManchester, NH 03101", 
+          "LAT": 42.997698, 
+          "LNG": -71.46859510000002, 
+          "COUNTRY": "United States", 
+          "STREET": "670 North Commercial Street", 
+          "REGION": "New Hampshire", 
+          "LOCALITY": "Manchester"
+        }, 
+        {
           "NAME": "Cultivate.Coop", 
           "ADDRESS": "PO Box 1207 Northampton, MA 01060", 
           "LAT": 42.3250492, 
