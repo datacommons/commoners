@@ -147,13 +147,13 @@
         },
         {
           "NAME": "Eastern Conference for Workplace Democracy",
-          "ADDRESS": "East Coast",
-          "LAT": 42.082469,
-          "LNG": -71.3960322,
+          "ADDRESS": "East Coast, US",
+          "LAT": 40.7422572,
+          "LNG": -73.67423230000001,
           "COUNTRY": "United States",
-          "STREET": "25 East Central Street",
-          "REGION": "Massachusetts",
-          "LOCALITY": "Franklin"
+          "STREET": "1807 Gilford Avenue",
+          "REGION": "New York",
+          "LOCALITY": "New Hyde Park"
         },
         {
           "NAME": "Food Co-op Initiative",
